@@ -1,1 +1,1 @@
-This file is mandatory in projects
+_Using vagrant and virtual box to work in a shell from own computers_
